@@ -74,13 +74,13 @@ This repository and accompanying documentation are licensed under the
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 **Citation:**
-Almahdhori, G. (2025). *Population Density and Car Dependency in Calgary [Data Package].* University of Calgary.
+Almahdhori, Ghasan. (2025). *Population Density and Car Dependency in Calgary.* University of Calgary.
 Data sourced from City of Calgary Open Data (2019, 2021) and Statistics Canada.
 
 ---
 
 ##  Contact and Acknowledgements
 
-**Author:** Ghassan Saleh Almahdhori
+**Author:** Ghassan Almahdhori
 
 Acknowledgement to Dr. Victoria Fast and the Department of Geography, University of Calgary, for guidance in spatial data management and open science practice.
