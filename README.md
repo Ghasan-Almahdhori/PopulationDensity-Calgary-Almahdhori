@@ -12,6 +12,7 @@ This repository presents a data package for the indicator ***Population Density 
 The project investigates how land use form affects mobility and sustainability in Calgary, emphasizing the spatial relationship between **community level population density** and **public transit usage**.
 By integrating census and open-data layers in ArcGIS Online, this project visualizes Calgary’s dependence on private automobiles and the sustainability benefits of compact urban growth.
 All data are open access and documented following **FAIR** (Findable, Accessible, Interoperable, Reusable) and **CARE** (Collective Benefit, Authority to Control, Responsibility, Ethics) principles.
+To explore this package, open the data folder for datasets and metadata, maps for visual outputs, and analysis for workflow notes.
 
 ---
 
