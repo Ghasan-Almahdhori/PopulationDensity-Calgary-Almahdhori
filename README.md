@@ -60,7 +60,7 @@ A **choropleth map** (blue density gradient) with **proportional green circles**
 ##  Visualization
 
 **Figure 1:** Population Density and Transit Mode Share in Calgary (2021)
-*File: `maps/density_transit_choropleth_calgary.tif`*
+*File: `population_density_and_transit_use_map`*
 
 This GeoTIFF map shows population density (blue choropleth) overlaid with proportional green circles for public transit mode .
 It illustrates that Calgary’s outer low-density suburbs have very low transit usage, whereas inner-city communities show higher transit adoption and lower car dependency.
