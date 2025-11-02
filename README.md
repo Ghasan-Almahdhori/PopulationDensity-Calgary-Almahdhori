@@ -9,9 +9,9 @@
 ##  Project Overview and Purpose
 
 This repository presents a data package for the indicator ***Population Density and Car Dependency in Calgary***.
-The project investigates how land-use form affects mobility and sustainability in Calgary, emphasizing the spatial relationship between **community-level population density** and **public-transit usage**.
+The project investigates how land use form affects mobility and sustainability in Calgary, emphasizing the spatial relationship between **community level population density** and **public transit usage**.
 By integrating census and open-data layers in ArcGIS Online, this project visualizes Calgary’s dependence on private automobiles and the sustainability benefits of compact urban growth.
-All data are open-access and documented following **FAIR** (Findable, Accessible, Interoperable, Reusable) and **CARE** (Collective Benefit, Authority to Control, Responsibility, Ethics) principles.
+All data are open access and documented following **FAIR** (Findable, Accessible, Interoperable, Reusable) and **CARE** (Collective Benefit, Authority to Control, Responsibility, Ethics) principles.
 
 ---
 
@@ -62,7 +62,7 @@ A **choropleth map** (blue density gradient) with **proportional green circles**
 **Figure 1:** Population Density and Transit Mode Share in Calgary (2021)
 *File: `maps/density_transit_choropleth_calgary.tif`*
 
-This GeoTIFF map shows population density (blue choropleth) overlaid with proportional green circles for transit mode share.
+This GeoTIFF map shows population density (blue choropleth) overlaid with proportional green circles for public transit mode .
 It illustrates that Calgary’s outer low-density suburbs have very low transit usage, whereas inner-city communities show higher transit adoption and lower car dependency.
 
 ---
